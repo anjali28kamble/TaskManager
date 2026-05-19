@@ -73,4 +73,6 @@ Dashboard shows:
 - Notifications
 - File Upload
 - Team Chat
-AUTHOR=Anjali Kamble
+  
+# AUTHOR
+Anjali Kamble
