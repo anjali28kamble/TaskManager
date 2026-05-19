@@ -59,7 +59,6 @@ JWT_SECRET=your_secret_key
 PORT=5000
 
 npm run dev
-
 cd frontend
 npm install
 npm start
@@ -74,7 +73,6 @@ PORT=5000
 ```env
 REACT_APP_API_URL=your_backend_url/api
 ```
-
 ## Dashboard
 Dashboard shows:
 - Total Tasks
