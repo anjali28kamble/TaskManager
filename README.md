@@ -41,13 +41,11 @@ TaskFlow is a simple team task management app built using the MERN stack. Users 
 - Mongoose
 
 ## Project Structure
-```bash
 backend/
 frontend/
-```
+
 
 ## Setup
-```bash
 git clone <repo-link>
 cd backend
 npm install
@@ -62,17 +60,15 @@ npm run dev
 cd frontend
 npm install
 npm start
-```
 ### Backend Variables
-```env
+env
 MONGO_URI=
 JWT_SECRET=
 PORT=5000
-```
 ### Frontend Variable
-```env
+env
 REACT_APP_API_URL=your_backend_url/api
-```
+
 ## Dashboard
 Dashboard shows:
 - Total Tasks
