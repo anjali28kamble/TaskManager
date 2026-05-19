@@ -1,7 +1,7 @@
 # TaskFlow - Team Task Manager
 TaskFlow is a simple team task management app built using the MERN stack. Users can create projects, assign tasks, and track progress with role-based access.
 
-## Features
+# Features
 - Signup & Login Authentication
 - JWT Based Auth
 - Admin and Member Roles
@@ -10,42 +10,37 @@ TaskFlow is a simple team task management app built using the MERN stack. Users 
 - Dashboard with Task Statistics
 - Overdue Task Detection
 
-## Roles
+# Roles
 
-### Admin
+# Admin
 - Create/Delete Projects
 - Add Members
 - Create/Edit/Delete Tasks
 
-### Member
+# Member
 - View Assigned Tasks
 - Update Task Status
 
-## Task Status
+# Task Status
 - Pending
 - In Progress
 - Completed
 
-## Tech Stack
-
-### Frontend
+# Tech Stack
+# Frontend
 - React
 - Axios
 - React Router
 - CSS
-
-### Backend
+# Backend
 - Node.js
 - Express.js
 - MongoDB
 - Mongoose
-
-## Project Structure
+# Project Structure
 backend/
 frontend/
-
-
-## Setup
+# Setup
 git clone <repo-link>
 cd backend
 npm install
@@ -60,26 +55,22 @@ npm run dev
 cd frontend
 npm install
 npm start
-### Backend Variables
+# Backend Variables
 env
 MONGO_URI=
 JWT_SECRET=
 PORT=5000
-### Frontend Variable
+# Frontend Variable
 env
 REACT_APP_API_URL=your_backend_url/api
-
-## Dashboard
+# Dashboard
 Dashboard shows:
 - Total Tasks
 - Pending Tasks
 - Completed Tasks
 - Overdue Tasks
-
-## Future Improvements
+# Future Improvements
 - Notifications
 - File Upload
 - Team Chat
-
-## Author
-Built as a MERN stack practice project.
+AUTHOR=Anjali Kamble
