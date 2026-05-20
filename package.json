@@ -1,8 +1,8 @@
 {
   "name": "team-task-manager",
   "version": "1.0.0",
-  "description": "MERN Stack Team Task Manager",
   "scripts": {
+    "start": "cd backend && node server.js",
     "install-all": "cd backend && npm install && cd ../frontend && npm install",
     "dev-backend": "cd backend && npm run dev",
     "dev-frontend": "cd frontend && npm start",
